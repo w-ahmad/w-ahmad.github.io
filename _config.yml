@@ -137,12 +137,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/waheedahmad92"
-    - label: "WinUI.TableView"
-      icon: "fas fa-fw fa-link"
-      url: "https://w-ahmad.github.io/WinUI.TableView/"
-    - label: "WinUI.TableView"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/w-ahmad/BlazorWebView.WinUI/"
 
 # Site Footer
 #footer:

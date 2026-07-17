@@ -3,6 +3,9 @@ layout: single
 classes: wide
 title: "WinUI.TableView with C# Markup"
 date: 2026-07-16
+categories:
+  - WinUI
+  - TableView
 tags:
   - WinUI
   - TableView

@@ -3,9 +3,8 @@ layout: single
 classes: wide
 title: "WinUI.TableView with C# Markup"
 date: 2026-07-16
-categories:
-  - WinUI
-  - TableView
+redirect_from:
+  - /winui/tableview/winui-tableview-csharp-markup/
 tags:
   - WinUI
   - TableView

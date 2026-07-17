@@ -3,9 +3,6 @@ layout: single
 classes: wide
 title: "WinUI.TableView with C# Markup"
 date: 2026-07-16
-categories:
-  - WinUI
-  - TableView
 tags:
   - WinUI
   - TableView
@@ -13,7 +10,7 @@ tags:
   - C# Markup
 ---
 
-You're building a nice [Uno Platform](https://platform.uno/) app with [C# Markup](https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Markup/Overview.html), you drop in [WinUI.TableView](https://github.com/w-ahmad/WinUI.TableView), wire up `ItemsSource` the usual way — and the app crashes.
+You're building a nice [Uno Platform](https://platform.uno/) app with [C# Markup](https://platform.uno/docs/articles/external/uno.extensions/doc/Learn/Markup/Overview.html), you drop in [WinUI.TableView](https://w-ahmad.dev/WinUI.TableView), wire up `ItemsSource` the usual way — and the app crashes.
 
 ```
 InvalidOperationException: Setting this property directly is not allowed. Use TableView.ItemsSource instead.
